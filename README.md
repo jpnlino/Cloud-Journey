@@ -10,3 +10,8 @@
   Learned about MFA, CLI, roles, and best practices. Did a quiz with 9 questions.
 - English practice: Set up tools to improve my English.
   Installed Grammarly and created accounts on LangCorrect and Italki. Practiced speaking by recording sessions.
+## Day 4: 27/03/2025
+- Started the "EC2 - Elastic Compute Cloud" section in the AWS course.
+  Learned About EC2 basics, intance types, and security groups.
+- Pratical Project: Explored the EC2 console..
+  Saw instance types and security groups in the AWS console.
