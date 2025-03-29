@@ -15,3 +15,8 @@
   Learned About EC2 basics, intance types, and security groups.
 - Pratical Project: Explored the EC2 console..
   Saw instance types and security groups in the AWS console.
+## Day 5: 28/03/2005
+- Finished the "EC2 - Elastic Compute Cloud" section in the AWS course.
+  Learned about EC2 purchasing options, IP charges, and roles.
+- Continued the "EC2 Instance Storage" section.
+  Learned about EBS, snapshots, AMI, and EC2 Instance Store.
