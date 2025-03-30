@@ -20,3 +20,10 @@
   Learned about EC2 purchasing options, IP charges, and roles.
 - Continued the "EC2 Instance Storage" section.
   Learned about EBS, snapshots, AMI, and EC2 Instance Store.
+## Day 6: 29/03/2025
+- Finished the "EC2 Instance Storage" section in the AWS course,
+Learned about EFS and EC2 Instance Store
+- Finished the "ELB & ASG - Elastic Load Balancing & Auto Scaling Groups" section.
+Learned about ELB, ALB, and ASG.
+- Started the "Amazon S3" section.
+Learned about S3 buckets and security.
