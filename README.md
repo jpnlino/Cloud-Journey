@@ -27,3 +27,6 @@ Learned about EFS and EC2 Instance Store
 Learned about ELB, ALB, and ASG.
 - Started the "Amazon S3" section.
 Learned about S3 buckets and security.
+## Day 7: 30/03/2025
+- Continued the "Amazon S3" section in the AWS course.  
+  Learned about S3 security (bucket policies), websites, versioning, replication, storage classes, encryption, and IAM Access Analyzer.
