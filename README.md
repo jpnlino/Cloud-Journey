@@ -30,3 +30,15 @@ Learned about S3 buckets and security.
 ## Day 7: 30/03/2025
 - Continued the "Amazon S3" section in the AWS course.  
   Learned about S3 security (bucket policies), websites, versioning, replication, storage classes, encryption, and IAM Access Analyzer.
+## Day 8: 31/01/2025
+- Started the "Databases & Analytics" section in the AWS course. Focused on Amazon RDS and Aurora.
+- Watched videos 83-92 (30 minutes): learned about relational databases, RDS engines, and Aurora's cloud optimization.
+- Created initial notes in OneNote under "AWS Databases - Basics".
+- Made 5 Anki flashcards for RDS and Aurora (e.g., "What is RDS?", "What is Aurora?").
+## Day 9: 02/04/2025
+- Continued the "Databases & Analytics" section in the AWS course. Watched videos 103-112 (14 minutes) on Athena, QuickSight, DocumentDB, Neptune, etc.
+- Reviewed Databases & Analytics (videos 93-112, 60 minutes): focused on RDS, Aurora, DynamoDB, Redshift.
+- Prepared notes for Quiz 7 (30 minutes) in OneNote under "Databases & Analytics - Quiz Prep".
+- Started the "Amazon S3" section: studied storage classes, versioning, and replication.
+- Created Anki flashcards for S3 (e.g., "What is S3 versioning?", "What are S3 storage classes?").
+
