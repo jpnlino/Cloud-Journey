@@ -46,4 +46,7 @@ Learned about S3 buckets and security.
 - Completed section 12 (Leveraging the AWS Global Infrastrucute)
 - Completed section 13 (Cloud Integrations)
 - Advanced in section 14 (Cloud Monitoring) up to video 162: "CloudWatch Logs Hands On"
-
+## Day 11: 06/04/2025
+- Completed section 14 (Cloud Monitoring).
+- Completed section 15 (VPC & Networking).
+- Started Section 16 (Security & Compliance) up to video 193: "GuardDuty Overview".
