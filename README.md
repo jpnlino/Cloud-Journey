@@ -41,4 +41,9 @@ Learned about S3 buckets and security.
 - Prepared notes for Quiz 7 (30 minutes) in OneNote under "Databases & Analytics - Quiz Prep".
 - Started the "Amazon S3" section: studied storage classes, versioning, and replication.
 - Created Anki flashcards for S3 (e.g., "What is S3 versioning?", "What are S3 storage classes?").
+## Day 10: 05/04/2025
+- Completed section 11 (Deplyments & Managing Infrastructure at Scale).
+- Completed section 12 (Leveraging the AWS Global Infrastrucute)
+- Completed section 13 (Cloud Integrations)
+- Advanced in section 14 (Cloud Monitoring) up to video 162: "CloudWatch Logs Hands On"
 
