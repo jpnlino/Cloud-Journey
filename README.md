@@ -50,3 +50,5 @@ Learned about S3 buckets and security.
 - Completed section 14 (Cloud Monitoring).
 - Completed section 15 (VPC & Networking).
 - Started Section 16 (Security & Compliance) up to video 193: "GuardDuty Overview".
+## Day 12: 07/04/2025
+- Completed Section 16 (Security & Compliance).
