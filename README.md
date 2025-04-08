@@ -52,3 +52,6 @@ Learned about S3 buckets and security.
 - Started Section 16 (Security & Compliance) up to video 193: "GuardDuty Overview".
 ## Day 12: 07/04/2025
 - Completed Section 16 (Security & Compliance).
+## Day 13: 08/04/2005
+- Completed Section 17 (Machine Learning)
+- Started Section 18 (Account Managment, Billing & Support) up to video 215: "Organizations Hands On".
