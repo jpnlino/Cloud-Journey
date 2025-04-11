@@ -55,5 +55,8 @@ Learned about S3 buckets and security.
 ## Day 13: 08/04/2005
 - Completed Section 17 (Machine Learning)
 - Started Section 18 (Account Managment, Billing & Support) up to video 215: "Organizations Hands On".
-Day 14: 10/04/2025
+## Day 14: 10/04/2025
 - Continued Section 18 (Account Management, Billing & Support) up to video 222: "Savings Plan Overview".
+## Day 15: 11/04/2025
+- Completed Section 18 (Account Management, Billing & Support).
+- Completed Section 19 (Advanced Identity).
