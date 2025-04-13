@@ -60,3 +60,8 @@ Learned about S3 buckets and security.
 ## Day 15: 11/04/2025
 - Completed Section 18 (Account Management, Billing & Support).
 - Completed Section 19 (Advanced Identity).
+Day 16: 12/04/2025
+- Completed Section 20 (Other Services).
+- Completed Section 21 (AWS Architecting & Ecosystem).
+- Started Section 22 (Preparing for the Exam + Practice Exam) up to video 271: "Exam Sample Question Walkthrough".
+
